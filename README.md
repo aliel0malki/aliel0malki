@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ali Elmalki</h1>
-<h3 align="center">Front End developer ( React )</h3>
+<h3 align="center">Front End Developer ( React )</h3>
 
 ## Links
  [![npm](https://img.shields.io/badge/npm-222?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~alielmalki)
