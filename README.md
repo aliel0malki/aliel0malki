@@ -12,9 +12,9 @@
 
 ##
 
-#### 🔭 I’m currently working on [degree_api](https://github.com/aliel0malki/degree_api)
+### I’m currently working on **[degree_api](https://github.com/aliel0malki/degree_api)**
 
-### 🌱 I’m currently learning 
+### I’m currently learning 
 - Firebase
 - OOP
 - Ts
@@ -22,13 +22,13 @@
 - More is coming..
 
 
-#### 👨‍💻 All of my projects are available at **[My Repos](https://github.com/aliel0malki)**
+#### All of my projects are available at **[My Repos](https://github.com/aliel0malki)**
 
-#### 💬 Ask me about **Front End [ React ]**
+#### Ask me about **Front End [ React ]**
 
-#### 📫 How to reach me **[Email](alielmalki.developer@gmail.com)**
+#### How to reach me **[Email](alielmalki.developer@gmail.com)**
 
-#### ⚡ Fun fact **I am 15 years old**
+#### Fun fact **I am 15 years old**
 
 ### My most important skill 
 - HTML CSS JAVASCRIPT
