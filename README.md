@@ -17,7 +17,7 @@
 ### I’m currently learning 
 - Firebase
 - OOP
-- Ts
+- TypeScript
 - Unit Testing using Jest
 - More is coming..
 
