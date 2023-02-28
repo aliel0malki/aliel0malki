@@ -1,11 +1,18 @@
 <h1 align="center">Hi, I'm Ali Elmalki</h1>
 <h3 align="center">Front End developer [ React Js, Ts]</h3>
 
-[![npm](https://img.shields.io/badge/npm-222?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~alielmalki)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aliel0malki/)
-[![youtube](https://img.shields.io/badge/youtube-d21e1e?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
-[![discord](https://img.shields.io/badge/discord-120f67?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pHJABSwkZ3)
+## Links
+ [![npm](https://img.shields.io/badge/npm-222?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~alielmalki)
+
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+ [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aliel0malki/)
+
+ [![youtube](https://img.shields.io/badge/youtube-d21e1e?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+
+ [![discord](https://img.shields.io/badge/discord-120f67?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pHJABSwkZ3)
+
+##
 
 #### 🔭 I’m currently working on [degree_api](https://github.com/aliel0malki/degree_api)
 
