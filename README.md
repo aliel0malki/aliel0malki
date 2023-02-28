@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ali Elmalki</h1>
+<h1 align="center">Hi, I'm Ali Elmalki</h1>
 <h3 align="center">Front End developer [ React Js, Ts]</h3>
 
-[![npm](https://img.shields.io/badge/npm-222?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/degree_api?activeTab=readme)
+[![npm](https://img.shields.io/badge/npm-222?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~alielmalki)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aliel0malki/)
 [![youtube](https://img.shields.io/badge/youtube-d21e1e?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
-[![discord](https://img.shields.io/badge/discord-120f67?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![discord](https://img.shields.io/badge/discord-120f67?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pHJABSwkZ3)
 
 #### 🔭 I’m currently working on [degree_api](https://github.com/aliel0malki/degree_api)
 
@@ -37,7 +37,7 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/alielmalkiQ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="190"  alt="https://www.buymeacoffee.com/alielmalkiQ" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/alielmalkiQ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180"  alt="https://www.buymeacoffee.com/alielmalkiQ" /></a></p><br><br>
 <h1></h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliel0malki&show_icons=true&locale=en&layout=compact" alt="aliel0malki" /></p>
 
