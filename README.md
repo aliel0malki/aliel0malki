@@ -1,10 +1,10 @@
 # Hi there 😁
 
-<a href="https://instagram.com/4sc_j">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+<a href="https://instagram.com/4sc_j" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://x.com/aliel0malki">
-<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+<a href="https://x.com/aliel0malki" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
 </a>
 
 ### Technologies 
