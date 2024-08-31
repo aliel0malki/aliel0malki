@@ -1,6 +1,6 @@
 # Hi there 😁
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&url=https://instagram.com/4sc_j)
+![Instagram](https://img.shields.io/badge/https://instagram.com/4sc_j?style=for-the-badge&logo=Instagram&logoColor=white&url=https://instagram.com/4sc_j)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&url=https://x.com/aliel0malki)
 
 ### Technologies 
