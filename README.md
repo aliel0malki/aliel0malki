@@ -1,5 +1,5 @@
 # HEY YOU
-I'm Ali, a 16-year-old from Egypt with 4 years of programming experience. I love building things and exploring new ideas in the world of tech.
+I'm Ali, a 17-year-old from Egypt with 4 years of programming experience. I love building things and exploring new ideas in the world of tech.
 
 <a href="https://instagram.com/4sc_j" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
