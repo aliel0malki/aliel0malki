@@ -1,5 +1,5 @@
 # Hey, I'm Ali 👋
-I like programming, I love to dive down into software. I don't do coding as a job. I also love Linux, neovim, and pizza. Oh, and I'm 17 (btw)
+I like programming, especially in low-level stuff. I don't do coding as a job. I also like Linux, Neovim, and pizza. I'm 17 (btw)
 
 ### My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliel0malki)](https://github.com/anuraghazra/github-readme-stats)
