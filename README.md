@@ -14,9 +14,9 @@ lov trying new stuff because I get boring so dam fast, also almost 3 years of co
 
 also i did 1 year of APP DEVELOPMENT used
 
-> NATIVE (android) java,kt,m3,compose
+> NATIVE android via java,kt,m3,compose
 
-> CROSS-PLATFORM (EXPO SDK)
+> CROSS-PLATFORM via EXPO SDK
 
 
 ##### *likes
