@@ -1,6 +1,6 @@
 Hey. i am Ali
 
-lov trying new stuff because I get boring so dam fast, also almost 4 years of coding and I did nothing 👍
+lov trying new stuff because I get boring so dam fast, also almost 3 years of coding and I did nothing 👍
 
 
 
