@@ -1,14 +1,25 @@
-Hi, I'm Ali
+Hey. i am Ali
 
-totally in love with low-level stuff. also linux, neo(vim), and pizza.
+lov trying new stuff because I get boring so dam fast, also almost 4 years of coding and I did nothing 👍
 
-i'm 17 ..........btw
 
-<img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=aliel0malki&screen_effect=true&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%28360deg%2C+%23165a4c00+100%25%2C+%23165a4c00+100%25%29+&color=%23ffffffFF&hide=avatar">
 
-##### skills
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+##### *experienced
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+
+also i did 1 year of APP DEVELOPMENT used
+
+> NATIVE (android) java,kt,m3,compose
+
+> CROSS-PLATFORM (EXPO SDK)
+
+
+##### *likes
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
