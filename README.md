@@ -3,11 +3,11 @@
 ##### about me:
 I get bored so fast that maybe faster than an elephant runnin’ from a rat... a Jewish rat. Kidding. Relax. ....Maybe;
 
-Started a hundred things, finished... none. Unless you count hating.
+Started a hundred things, finished... none. Unless you count hating. btw they are private repos because my stupidass didn't know how to use env back then.
 
-Been coding for 3 fuckin’ years. At this point, should’ve built the next Facebook typa shi but instead I built character. And like, two broken apps.
+I been coding for nearly 3 fuckin’ years. At this point, should’ve built the next Facebook typa shi but instead I built a chair of woods. And like, two broken apps.
 
-The thing that I like about myself? that is, I learn fast. and quit faster.
+seriously the thing I like about myself that is, I learn fast. but quit faster. FU-
 
 Might disappear for a week to "Questioning life" type shi
 but then i come back and nothing’s change
