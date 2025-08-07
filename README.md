@@ -1,7 +1,7 @@
 # Hey, I’m Ali
 
 ##### about me:
-gets bored faster than an elephant runnin’ from a rat... a Jewish rat. Kidding. Relax. ....Maybe;
+I get bored so fast that maybe faster than an elephant runnin’ from a rat... a Jewish rat. Kidding. Relax. ....Maybe;
 
 Started a hundred things, finished... none. Unless you count hating.
 
