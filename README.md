@@ -1,20 +1,20 @@
 # Hey, I’m Ali
 
 ##### about me:
-I get bored so fast that maybe faster than an elephant runnin’ from a rat... a Jewish rat. Kidding. Relax. ....Maybe;
+I get bored fast that maybe faster than an elephant runnin’ from a rat... a Jewish rat. Kidding. Relax. ...Maybe.
 
-Started a hundred things, finished... none. Unless you count hating. btw they are private repos because my stupidass didn't know how to use env back then.
+Started a hundred things, finished none. Unless you count hating. And yeah, the repos are private because my dumbass didn’t know how to use env files back then. Don’t ask.
 
-I been coding for nearly 3 fuckin’ years. At this point, should’ve built the next Facebook typa shi but instead I built a chair of woods. And like, two broken apps.
+also I've been coding for nearly 3 fuckin’ years now. At this point, I should’ve built the next Facebook type shi, but Instead, I built a wooden chair. And like… two broken apps.
 
-seriously the thing I like about myself that is, I learn fast. but quit faster. FU-
+And if there’s one thing I like about myself, it’s that I learn fast. Real fast. But then i quit faster... F—
 
-Might disappear for a week to "Questioning life" type shi
-but then i come back and nothing’s change
+Sometimes I vanish for a week — y’know, “questioning life” kinda thing. Then I crawl back like nothin’ ever happened.
 
-yah and also I like pizza, nature and The Sopranos and ofc my famiiiiilia`
+Oh — and I like pizza, nature, The Sopranos, and of course… my famiiiglia.
 
 Not necessarily in that order. Depends how good the pizza is.
+
 
 ##### and for the nerds.. heres techs i likes or languages call em whatever the fuck you want 
 
