@@ -5,7 +5,7 @@ I get bored so fast that maybe faster than an elephant runnin’ from a rat... a
 
 Started a hundred things, finished... none. Unless you count hating.
 
-Been coding for four fuckin’ years. At this rate, I should’ve built the next Facebook — typa shi but instead I built character. And like, two broken apps.
+Been coding for 4 fuckin’ years. At this point, should’ve built the next Facebook typa shi but instead I built character. And like, two broken apps.
 
 The thing that I like about myself? that is, I learn fast. and quit faster.
 
