@@ -1,7 +1,7 @@
 # Hey, I’m Ali
 
 ##### about me:
-I get bored fast that maybe faster than an elephant runnin’ from a rat... a Jewish rat. Kidding. Relax. ...Maybe.
+I get bored so fast that maybe faster than an elephant runnin’ from a rat... a Jewish rat. Kidding. Relax. ...Maybe.
 
 Started a hundred things, finished none. Unless you count hating. And yeah, the repos are private because my dumbass didn’t know how to use env files back then. Don’t ask.
 
@@ -16,7 +16,7 @@ Oh — and I like pizza, nature, The Sopranos, and of course… my famiiiglia.
 Not necessarily in that order. Depends how good the pizza is.
 
 
-##### and for the nerds.. heres techs i likes or languages call em whatever the fuck you want 
+##### for the nerds, heres techs i likes or languages call em whatever the fuck you want 
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
